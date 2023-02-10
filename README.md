@@ -19,6 +19,7 @@ const agustinLopez = {
          js: ["Node", "Express"]
          },
       databases: ["MongoDB", "mySQL", "Firebase"],
+      testing: ["Jira", "mySQL", "Postman", "Jmeter", "Cypress", "Jest"],
       
    },
    currentOccupation: ["last year student, open for job opportunities"],

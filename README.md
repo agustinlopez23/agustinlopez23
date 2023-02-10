@@ -12,13 +12,13 @@ const agustinLopez = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React","Next"],
+         css: ["Tailwind", "Material UI", "Bootstrap", "Chakra", "Antd"]
       },
       backEnd: {         
          js: ["Node", "Express"]
          },
-      databases: ["MongoDB", "mySQL", "SQLServer", "Firebase],
+      databases: ["MongoDB", "mySQL", "Firebase"],
       
    },
    currentOccupation: ["last year student, open for job opportunities"],

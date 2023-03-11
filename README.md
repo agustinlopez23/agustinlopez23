@@ -1,7 +1,8 @@
-### Hello! I'm Agustin Lopez a Full Stack Developer from Argentina! 👋
+<div align="center">Hello! I'm Agustin Lopez a Full Stack Developer from Argentina! 👋<div>
 
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
+       alt="snake" align="center"/>
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/marceloagustinlopezramallo/)
 [![](https://img.shields.io/badge/Twitter-agustinlopez223-blue)](https://twitter.com/agustinlopez223)

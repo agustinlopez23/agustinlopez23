@@ -5,7 +5,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/marceloagustinlopezramallo/)
 [![](https://img.shields.io/badge/Twitter-agustinlopez223-blue)](https://twitter.com/agustinlopez223)
-[![](https://img.shields.io/badge/Gmail-agustinlopez223%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![](https://img.shields.io/badge/PersonalSite-agustinlopezdev.com-green)](https://agustinlopezdev.com)
 
 🙋‍♂️ Hello, Welcome! I am a person who likes to dabble and investigate new things all the time. This is how I started to get into the world of technology.

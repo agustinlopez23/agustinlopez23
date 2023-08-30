@@ -14,7 +14,7 @@ I was curious to know what programming was all about, so I started learning on m
 
 I have knowledge in HTML, CSS, SASS, Bootstrap, ChakraUI, MaterialUI, Javascript, ReactJS, Redux, NodeJS, ExpressJS, Sequelize, Prisma, PostgreSQL, MySQL and Scrum. I am learning to use Docker, I find it amazing what can be done with this technology.
 
-I am a student at the university of software engineering. I am very motivated looking for a company where I can learn and grow with professionals who have the same feeling. I like being part of a team because I can learn from my colleagues and contribute my knowledge to achieve goals.
+I am a student of software engineering, I am working in a software company, but I like to be in constant movement so I am looking for new challenges in which I can grow both personally and professionally in the development of software and systems.
 
 ## Use To Code
 
